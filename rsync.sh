@@ -1,0 +1,1 @@
+rsync -anvP --include=index.html --exclude=.git/**/* --include=*/ --include-from=include.txt --exclude-from=exclude.txt --exclude=* ./ ubuntu@app.cfregisters.uvic.ca:/home/ubuntu/facsimile/flip_books/ > output.txt
