@@ -81,7 +81,7 @@ br.numLeafs = 462;
 
 // Book title and the URL used for the book title link
 br.bookTitle= 'Com\u00E9die-Fran\u00E7aise Registers Project - R130 Feux 6 - 1772-1774';
-br.bookUrl  = 'http://cfregisters.org/en/registers/casting-registers';
+br.bookUrl  = 'https://www.cfregisters.org/en/registers/casting-registers';
 
 // Override the path used to find UI images
 br.imagesBaseURL = '../bookreader/images/';

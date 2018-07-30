@@ -81,7 +81,7 @@ br.numLeafs = 130;
 
 // Book title and the URL used for the book title link
 br.bookTitle= 'Com\u00E9die-Fran\u00E7aise Registers Project - R52_11 - 1728-1729';
-br.bookUrl  = 'http://cfregisters.org/en/registers/administrative-registers';
+br.bookUrl  = 'https://www.cfregisters.org/en/registers/administrative-registers';
 
 // Override the path used to find UI images
 br.imagesBaseURL = '../bookreader/images/';

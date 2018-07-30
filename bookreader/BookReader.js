@@ -81,7 +81,7 @@ function BookReader() {
     
     // Should be overriden (before init) by custom implmentations.
     // this.logoURL = 'http://www.archive.org';
-	this.logoURL = 'http://cfregisters.org'; /* customized for CFRP */
+	this.logoURL = 'https://www.cfregisters.org'; /* customized for CFRP */
     
     // Base URL for UI images - should be overriden (before init) by
     // custom implementations.
